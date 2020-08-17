@@ -1,0 +1,35 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-image: url(../img/20594.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+form {
+    margin-left: 50px;
+}
+
+label {
+    color: white;
+}
+
+h1 {
+    color: white;
+    margin-left: 25px;
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+
+#freepik a {
+    color: white;
+    position: absolute;
+    width: 746px;
+    height: 10px;
+    padding-bottom: 0;
+    top: 570px;
+}
