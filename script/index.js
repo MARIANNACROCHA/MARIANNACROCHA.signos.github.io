@@ -38,7 +38,7 @@ $( document ).ready(function() {
             alert("Sagitário");
         }
         else if ((month == 12 && day >=22) ||(month == 1 && day <=19))  {
-            alert("Sagitário");
+            alert("Capricórnio");
         }
         else {
             alert("Data digitada incorretamente")
