@@ -6,23 +6,44 @@
 body {
     background-image: url(../img/20594.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat:repeat;
     width: 100%;
 }
 
 form {
     margin-left: 50px;
+   text-align: center;
 }
 
 label {
     color: white;
+    font-size: 20px;
+}
+
+input {
+    height: 40px;
+    width: 70px;
 }
 
 h1 {
+    display: none;
+}
+
+h2{
     color: white;
     margin-left: 25px;
     margin-top:25px;
-    margin-bottom: 25px;
+    margin-bottom: 75px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#resultado {
+    color:white;
+    padding-top:25px;
+    font-size: 40px;
+    margin-top: 50px;
+    font-weight: 800;
 }
 
 #freepik a {
@@ -33,3 +54,4 @@ h1 {
     padding-bottom: 0;
     top: 570px;
 }
+
