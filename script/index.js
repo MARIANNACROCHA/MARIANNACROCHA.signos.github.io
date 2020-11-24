@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+$(document).ready(function() {
 
     $("#enviarbtn").click(function(x){
         let month = $("#month").val();
